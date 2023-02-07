@@ -3,7 +3,9 @@ title: "class-7"
 ---
 
 ```{r}
-library(tidyverse)
+#| echo: false
+#| message: false
+
 library(tidycensus)
 options(tigris_use_cache = TRUE)
 
