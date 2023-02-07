@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: c47198c2-bb62-4a00-a43a-7e393f05dbf0
+      url: 'https://quartopub.com/sites/ksheehy/my-cool-project'
